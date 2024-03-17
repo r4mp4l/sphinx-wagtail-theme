@@ -6,7 +6,7 @@
 
 .. BADGES_END
 
-Welcome to "Sphinx Wagtail theme" documentation!
+Welcome to "cdgdxfbd Sphinx Wagtail theme" documentation!
 ================================================
 
 This is the Sphinx theme used for the official Wagtail docs. All Wagtail-related
